@@ -1,0 +1,9 @@
+vendor/
+web/core
+web/modules/contrib
+web/themes/contrib
+web/libraries
+web/profiles/contrib
+.idea/
+web/themes/custom/*/node_modules
+web/sites/*/files
